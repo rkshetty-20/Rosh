@@ -87,16 +87,15 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+
   assets:
-   - android/assets/bnglr.jpg
-   - android/assets/frnds.jpg
-   - android/assets/insta_profile.jpg
-   - android/assets/sjbit.jpeg
-   - android/assets/i1.jfif
-   - android/assets/i2.jfif
-   - android/assets/i3.jpg
-   - android/assets/nature.jfif
-   - android/assets/shadow.jfif
-   - android/assets/instalogo.png
-   - android/assets/meta1.png
+    - lib/assets/ambi_insta.jpg
+    - lib/assets/darshan_insta.jpg
+    - lib/assets/punith_insta.jpg
+    - lib/assets/raina_insta.jpg
+    - lib/assets/shankarnag.jpg
+    - lib/assets/sudeep_insta.jpg
+    - lib/assets/uppi_insta.jpg
+    - lib/assets/vishnu_insta.jpg
+    - lib/assets/yash_insta.jpg
 
